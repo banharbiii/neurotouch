@@ -209,7 +209,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* ===== HERO SECTION ===== */
 #hero {
-    background-image: url('company\ logo.jpg');
+    background-image: url('Images/company\ logo.jpg');
     background-size: cover;
     background-position: center;
     color: white;

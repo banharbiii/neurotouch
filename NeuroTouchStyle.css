@@ -215,7 +215,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* ===== HERO SECTION ===== */
 #hero {
-    background-image: url('Background\ for\ med.jpg');
+    background-image: url('Images/Background\ for\ med.jpg');
     background-size: cover;
     background-position: center;
     color: white;
